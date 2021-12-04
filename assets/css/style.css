@@ -29,3 +29,22 @@ body {
 .card-body {
     background-color: #47d6db;
 }
+
+
+/* sección de contacto */
+.btn {
+    background-color: rgb(15, 4, 172);
+    
+}
+
+/* footer  */
+
+#footer {
+    background-color: #47d6db;
+    padding: 5px;
+}
+
+#footer a {
+    color: #fff;
+    margin: 0 10px;
+}
