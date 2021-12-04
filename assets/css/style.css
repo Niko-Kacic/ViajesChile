@@ -12,6 +12,21 @@ body {
     z-index: 1;
 }
 
+#navigator a {
+    color: #fff;
+}
+
+.icon {
+    height: 35px;
+    width: 35px;
+}
+
+.logo {
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
 .carousel {
     z-index: 0;
 }
@@ -26,6 +41,16 @@ body {
 }
 
 /* sección de destacados */
+
+#destacados img:nth-last-child(2){
+    height: 190px;
+}
+
+.contact{
+    height: 300px;
+    background-color:#fff;
+}
+
 .card-body {
     background-color: #47d6db;
 }
