@@ -1,3 +1,8 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
 /*Estilos al Nav Bar */
 
 .navbar {
@@ -9,4 +14,11 @@
 
 .carousel {
     z-index: 0;
+}
+
+/* Seccion de quienes somos */
+
+/* sección de destacados */
+.card-body {
+    background-color: #47d6db;
 }
