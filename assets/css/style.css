@@ -18,6 +18,13 @@ body {
 
 /* Seccion de quienes somos */
 
+#quienes_somos i {
+    display: flex;
+    justify-content: center;
+    background-color: #47d6db;
+    padding: 5px;
+}
+
 /* sección de destacados */
 .card-body {
     background-color: #47d6db;
